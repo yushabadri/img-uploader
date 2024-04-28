@@ -1,0 +1,16 @@
+{
+    "name": "yusha/img-uploader",
+    "description": "Effortlessly upload images to your Laravel project's public folder with this package. Simplifies image handling and storage for your application.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yusha\\ImgUploader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Farshad Badri Mardakhi"
+        }
+    ],
+    "require": {}
+}
